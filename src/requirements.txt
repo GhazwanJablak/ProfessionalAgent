@@ -1,0 +1,7 @@
+pypdf
+openai
+python-dotenv
+anthropic
+autogen-agentchat
+autogen-core
+autogen-ext
